@@ -1,5 +1,5 @@
 > 📦 **Project Files Notice**  
-> Due to GitHub file size limits, large project files (Power BI dashboard, dataset, and documentation) are available in the **Releases** section.  
+> Due to GitHub file size limits, large project files (Power BI dashboard, dataset, and documentation) are available in the **Releases** section. 
 > 👉 **[Click here to download all project files](../../releases/tag/v1.0)**
 # ⚡ Electric Vehicle Population Analytics Dashboard – Power BI
 
